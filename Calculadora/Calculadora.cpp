@@ -14,7 +14,7 @@ int main() {
 		mostrarMenu();
 		cout << "Elige una opcion: ";
 		cin >> opcion;
-		if (opcion >= 1 && opcion <= 3) {
+		if (opcion >= 1 && opcion <= 4) {
 			cout << "Introduce el primer numero: ";
 			cin >> num1;
 			cout << "Introduce el segundo numero: ";
